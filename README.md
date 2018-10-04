@@ -1,1 +1,1 @@
-# Cointinuous
+# Continuous
